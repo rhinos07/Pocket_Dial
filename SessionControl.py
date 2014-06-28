@@ -1,4 +1,5 @@
 import settings
+import Live
 from _Framework.InputControlElement import *
 from _Framework.SessionComponent import SessionComponent
 from _Framework.EncoderElement import EncoderElement
